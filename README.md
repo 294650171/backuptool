@@ -1,3 +1,3 @@
 # backuptool
-backup java
-数据库备份工具
+*backup java
+#数据库备份工具
